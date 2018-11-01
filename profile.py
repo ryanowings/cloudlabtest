@@ -1,5 +1,5 @@
 """An example of constructing a profile with a single Xen VM from CloudLab.
-
+:)
 Instructions:
 Wait for the profile instance to start, and then log in to the VM via the
 ssh port specified below.  (Note that in this case, you will need to access
